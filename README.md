@@ -6,8 +6,8 @@ Projeto Integrador a Logística
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 * [Equipe](#equipe)
-* [SWOT](#Análise-SWOT-da-Empresa)
 * [Projeto](#Projeto-API)
+* [SWOT](#Análise-SWOT-da-Empresa)
 
 * # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
