@@ -1,6 +1,7 @@
 # Quem-somos
 Projeto Integrador a Logística
-#Dona dani#
+![Baner](https://github.com/user-attachments/assets/b2d16664-9d3f-45a3-b18e-5665a4750a3c)
+
 # *Aprendizado por Projeto Integrador (API) - Aporeko*
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
